@@ -1,6 +1,6 @@
-EECS 388 [Computer Security] Course Notes
-University of Michigan
-Winter 2017
+EECS 388 [Computer Security] Course Notes\
+University of Michigan\
+Winter 2017\
 
 Topics
 - Integrity
